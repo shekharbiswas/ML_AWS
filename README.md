@@ -17,3 +17,6 @@ Build upon the principles learned in Software Engineering I, exploring more adva
 5. Object-Oriented Programming (OOP):
 Understand the key principles of object-oriented programming, such as encapsulation, inheritance, and polymorphism. This module will help you design more modular and reusable code, crucial for developing scalable ML solutions.
 
+## Objectives
+By the end of this course, you’ll have a solid foundation in both the theoretical and practical aspects of ML, equipped to deploy and manage machine learning models on AWS, alongside strong software engineering skills to support scalable, maintainable ML solutions.
+
